@@ -1,0 +1,12 @@
+.t-shirt {
+    border: 1px solid lightblue;
+    border-radius: 1rem;
+    padding: .75rem;
+}
+
+.t-shirt img {
+    height: 250px;
+    aspect-ratio: 3/3;
+    border-radius: 15px;
+    object-fit: contain;
+}
